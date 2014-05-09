@@ -1,4 +1,112 @@
 FntsrResume
 ===========
 
-My Resume
+Personal Information
+--------------------
+Name: Ruo-Shi Ling (凌若虛) // Not Real Name
+Usual ID: Fntsrlike (It is abbr. of Fantasier-like)
+Sex: Male
+E-mail: fntsrlike+gh@gmail.com
+
+Education
+--------------------
+- National TaiChung Wen-Hua Senior High School (2006 - 2010)
+- Depart of History, National Chung Hsing University (2010-2014)
+- Object-Oriented Technology Lab in Dept. of Computer Science and Information Engineering, National Central University (2014 - )
+
+Computer and Programing skills
+---------------
+- BSD (OS X), Linux (Debian/Ubuntu, CentOS), Windows
+- Apache, nginx
+- Git, Github, GitBukkit
+- C/C++ (Basic), Maple-itoc BBS
+- Java, Android App development
+- Lua, LÖVE
+- HTML, XML, Markdown
+- CSS, Bootstrap
+- JavaScript, CoffeeScript, JQuery, node.js
+- PHP, CodeIgniter, Laravel
+- Ruby, Ruby on Rails
+- SQL, MySQL, MongoDB
+
+Skill Experience
+----------------
+### Web developer, server administrator, since February, 2012
+- NCHU Library, IT Group, part-time web developer. (Feb. 2012 - Jun. 2014)
+    - [研究小間、讀者討論室借用系統][1] (Maintainer & Collaborators)
+    - 校外人士進館系統 (Maintainer & Collaborators)
+    - 尋書系統 (Author)
+    - 業務統計系統 (Author)
+- NCHU Student Government, Depart of IT, web developer. (Jul. 2012 - Jun. 2014)
+    - [學生會網站整體規劃][2] (Author)
+    - [學生會網站會員系統][3] (Author)
+    - [學生會網站海報欄位申請系統][4] (Author)
+    - [學生會網站學權申訴系統][5] (Author)
+    - [興大電資同好社群 - 介紹頁面][6] (Author)
+- g0v.tw 台灣零時政府
+    - [國會選票分析系統 Beta][7] (Collaborators)
+    - [國會選票分析系統][8] (Collaborators)
+
+### Computer Maintainer, July 2011 - February 2012
+- NCHU Library, IT Group, Maintain Room, part-time maintainer
+
+### Network Administrator, April. 2010 - October. 2011
+- Computer Researching Club, National TaiChung Wen-Hua Senior High School
+- WHSH BBS "New Fantasy Field" Founder & Administrator.
+
+Personal Projects
+----------------
+### Web System
+- [Ilt Member System][9]
+- [Appeal Manage system][10]
+- Statics with Fields Manager System (Being Code refactoring)
+
+### Utilities / Toys
+- [NCHU Class Information Parse][11]
+- [Days_Counter][12]
+- [Tumblr Theme: No More Bad Parking][13]
+- [Multi Calendar][14]
+
+Awards and achievements
+----------------
+* Bronze medal, ITSA 2013 (全國大專校院開放軟體創作競賽)
+
+Activity
+---------------
+* COSCUP 2011, 2012, 2013
+* HITCON 2012
+* OSDC 2014
+* PHPConf 2012, 2013（VIP）
+* WebConf 2013
+* Indie Speed Run 2013
+* g0v.tw Hackath5n (台灣零時政府第伍次美麗島黑客松)
+
+### Club/Group Experience ###
+* Computer Researching Club, WHSH - President
+* Taichung-Changhua-Hsinchu Area United Computer Information Clubs Winter Camp - Activities Leader
+* New Fantasy Field BBS of WHSH - Founder & Administrator.
+* Chinese Medical Research Club - Vice President
+* Semester Presentation of Chinese Medical Research Club - CEO
+* Black Swan Cup eSports League of NCHU - Consultant
+* Administrative Center of Student Government of NCHU
+    * 16th: Secretariat Member, Department of Media Member
+    * 17th: Department of Information Technology - Vice Minister
+    * 18th: Department of Information Technology - Minister
+* Congress of Student Government of NCHU
+    * 19th: Congressman
+* NCHU Electrical Engineering and Computer Science enthusiasts Community - Host
+
+  [1]: http://class.lib.nchu.edu.tw/lib/order.php
+  [2]: http://nchusg.org
+  [3]: http://ilt.nchusg.org/
+  [4]: http://app.nchusg.org/poster_manager
+  [5]: http://app.nchusg.org/appeal/
+  [6]: http://eecsec.nchusg.org/
+  [7]: https://github.com/g0v-tw-congress-vote-analytics/congress-vote-analytics-beta
+  [8]: http://congress-vote-analytics.herokuapp.com/
+  [9]: https://github.com/fntsrlike/ilts_laravel
+  [10]: https://github.com/fntsrlike/appeal_system
+  [11]: https://github.com/fntsrlike/nchu_class_parse
+  [12]: https://github.com/fntsrlike/Days_Counter
+  [13]: https://github.com/fntsrlike/tumblr_theme
+  [14]: https://github.com/fntsrlike/multi-calendar
