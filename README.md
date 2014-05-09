@@ -33,19 +33,19 @@ Skill Experience
 ----------------
 ### Web developer, server administrator, since February, 2012
 - NCHU Library, IT Group, part-time web developer. (Feb. 2012 - Jun. 2014)
-    - [研究小間、讀者討論室借用系統][1] *(Maintainer & Collaborators)*
-    - 校外人士進館系統 *(Maintainer & Collaborators)*
-    - 尋書系統 *(Author)*
-    - 業務統計系統 *(Author)*
+    - [Research Room, Discuz Room Borrow System][1] *(研究小間、讀者討論室借用系統)* - Maintainer & Collaborators
+    - External members Enter Systen *(校外人士進館系統)* - Maintainer & Collaborators
+    - Book Search System *(尋書系統)* - Author
+    - Business Statics System *(業務統計系統)* - Author
 - NCHU Student Government, Depart of IT, web developer. (Jul. 2012 - Jun. 2014)
-    - [學生會網站整體規劃][2] *(Author)*
-    - [學生會網站會員系統][3] *(Author)*
-    - [學生會網站海報欄位申請系統][4] *(Author)*
-    - [學生會網站學權申訴系統][5] *(Author)*
-    - [興大電資同好社群 - 介紹頁面][6] *(Author)*
+    - [Official Webiste][2] *(學生會網站整體規劃)*
+    - [Member System][3] *(會員系統)* - Author
+    - [Poster Board Manager System][4] *(海報欄位申請系統)* - Author
+    - [Student Right Appeal System][5] *(學權申訴系統)* - Author
+    - [NCHU Electrical Engineering and Computer Science enthusiasts Community Pages ][6] *(興大電資同好社群介紹頁面)*
 - g0v.tw 台灣零時政府
-    - [國會選票分析系統 Beta][7] *(Collaborators)*
-    - [國會選票分析系統][8] *(Collaborators)*
+    - [Congress Vote Analytics Beta][7] *(國會選票分析系統 Beta)* - Collaborators
+    - [ongress Vote Analytics][8] *(國會選票分析系統)* - Collaborators
 
 ### Computer Maintainer, July 2011 - February 2012
 - NCHU Library, IT Group, Maintain Room, part-time maintainer
