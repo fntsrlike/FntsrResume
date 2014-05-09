@@ -4,7 +4,7 @@ FntsrResume
 Personal Information
 --------------------
 Name: Ruo-Shi Ling (凌若虛) // Not Real Name
-Usual ID: Fntsrlike (It is abbr. of Fantasier-like)
+Usual ID: Fntsr, Fntsrlike (Fntsr is abbr. of Fantasier)
 Sex: Male
 E-mail: fntsrlike+gh@gmail.com
 
@@ -33,19 +33,19 @@ Skill Experience
 ----------------
 ### Web developer, server administrator, since February, 2012
 - NCHU Library, IT Group, part-time web developer. (Feb. 2012 - Jun. 2014)
-    - [研究小間、讀者討論室借用系統][1] (Maintainer & Collaborators)
-    - 校外人士進館系統 (Maintainer & Collaborators)
-    - 尋書系統 (Author)
-    - 業務統計系統 (Author)
+    - [研究小間、讀者討論室借用系統][1] *(Maintainer & Collaborators)*
+    - 校外人士進館系統 *(Maintainer & Collaborators)*
+    - 尋書系統 *(Author)*
+    - 業務統計系統 *(Author)*
 - NCHU Student Government, Depart of IT, web developer. (Jul. 2012 - Jun. 2014)
-    - [學生會網站整體規劃][2] (Author)
-    - [學生會網站會員系統][3] (Author)
-    - [學生會網站海報欄位申請系統][4] (Author)
-    - [學生會網站學權申訴系統][5] (Author)
-    - [興大電資同好社群 - 介紹頁面][6] (Author)
+    - [學生會網站整體規劃][2] *(Author)*
+    - [學生會網站會員系統][3] *(Author)*
+    - [學生會網站海報欄位申請系統][4] *(Author)*
+    - [學生會網站學權申訴系統][5] *(Author)*
+    - [興大電資同好社群 - 介紹頁面][6] *(Author)*
 - g0v.tw 台灣零時政府
-    - [國會選票分析系統 Beta][7] (Collaborators)
-    - [國會選票分析系統][8] (Collaborators)
+    - [國會選票分析系統 Beta][7] *(Collaborators)*
+    - [國會選票分析系統][8] *(Collaborators)*
 
 ### Computer Maintainer, July 2011 - February 2012
 - NCHU Library, IT Group, Maintain Room, part-time maintainer
@@ -59,7 +59,7 @@ Personal Projects
 ### Web System
 - [Ilt Member System][9]
 - [Appeal Manage system][10]
-- Statics with Fields Manager System (Being Code refactoring)
+- Statics with Fields Manager System *(Being Code refactoring)*
 
 ### Utilities / Toys
 - [NCHU Class Information Parse][11]
@@ -69,34 +69,34 @@ Personal Projects
 
 Awards and achievements
 ----------------
-* Bronze medal, ITSA 2013 (全國大專校院開放軟體創作競賽)
+* Bronze medal, ITSA 2013 *(全國大專校院開放軟體創作競賽)*
 
 Activity
 ---------------
 * COSCUP 2011, 2012, 2013
 * HITCON 2012
 * OSDC 2014
-* PHPConf 2012, 2013（VIP）
+* PHPConf 2012, 2013 (VIP)
 * WebConf 2013
 * Indie Speed Run 2013
-* g0v.tw Hackath5n (台灣零時政府第伍次美麗島黑客松)
+* g0v.tw Hackath5n *(台灣零時政府第伍次美麗島黑客松)*
 
 ### Club/Group Experience ###
-* Computer Researching Club, WHSH - President (文華高中電研社社長)
+* Computer Researching Club, WHSH - President *(文華高中電研社社長)*
 * Taichung-Changhua-Hsinchu Area United Computer Information Clubs Winter Camp (中彰竹電資研社團聯合寒訓）
-    * 2009: Depart of Senior High - Activities Leader (高中部活動長)
-    * 2011: Depart of University - Activities Leader (大學部活動長)
-* New Fantasy Field BBS of WHSH - Founder & Administrator. (文華高中BBS校站新幻想領域創立者與管理員)
-* Chinese Medical Research Club - Vice President (中興大學中醫社副社長)
-* Presentation of Chinese Medical Research Club - CEO (中興大學中醫社成發創立者與執行長)
-* Black Swan Cup eSports League of NCHU - Consultant (中興大學黑天鵝盃電競聯賽顧問)
-* Administrative Center of Student Government of NCHU (中興大學學生會行政中心)
-    * 16th: Secretariat Member, Department of Media Member (16屆秘書處、新聞部成員)
-    * 17th: Department of Information Technology - Vice Minister (17屆副資訊長)
-    * 18th: Department of Information Technology - Minister (18屆資訊長)
-* Congress of Student Government of NCHU (中興大學學生會學生代表大會)
-    * 19th: Congressman (19屆議員)
-* NCHU Electrical Engineering and Computer Science enthusiasts Community - Host (興大電資同好社群主持人)
+    * 2009: Depart of Senior High - Activities Leader *(高中部活動長)*
+    * 2011: Depart of University - Activities Leader *(大學部活動長)*
+* New Fantasy Field BBS of WHSH - Founder & Administrator. *(文華高中BBS校站新幻想領域創立者與管理員)*
+* Chinese Medical Research Club - Vice President *(中興大學中醫社副社長)*
+* Presentation of Chinese Medical Research Club - CEO *(中興大學中醫社成發創立者與執行長)*
+* Black Swan Cup eSports League of NCHU - Consultant *(中興大學黑天鵝盃電競聯賽顧問)*
+* Administrative Center of Student Government of NCHU *(中興大學學生會行政中心)*
+    * 16th: Secretariat Member, Department of Media Member *(16屆秘書處、新聞部成員)*
+    * 17th: Department of Information Technology - Vice Minister *(17屆副資訊長)*
+    * 18th: Department of Information Technology - Minister *(18屆資訊長)*
+* Congress of Student Government of NCHU *(中興大學學生會學生代表大會)*
+    * 19th: Congressman *(19屆議員)*
+* NCHU Electrical Engineering and Computer Science enthusiasts Community - Host *(興大電資同好社群主持人)*
 
   [1]: http://class.lib.nchu.edu.tw/lib/order.php
   [2]: http://nchusg.org
