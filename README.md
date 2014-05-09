@@ -82,19 +82,21 @@ Activity
 * g0v.tw Hackath5n (台灣零時政府第伍次美麗島黑客松)
 
 ### Club/Group Experience ###
-* Computer Researching Club, WHSH - President
-* Taichung-Changhua-Hsinchu Area United Computer Information Clubs Winter Camp - Activities Leader
-* New Fantasy Field BBS of WHSH - Founder & Administrator.
-* Chinese Medical Research Club - Vice President
-* Semester Presentation of Chinese Medical Research Club - CEO
-* Black Swan Cup eSports League of NCHU - Consultant
-* Administrative Center of Student Government of NCHU
-    * 16th: Secretariat Member, Department of Media Member
-    * 17th: Department of Information Technology - Vice Minister
-    * 18th: Department of Information Technology - Minister
-* Congress of Student Government of NCHU
-    * 19th: Congressman
-* NCHU Electrical Engineering and Computer Science enthusiasts Community - Host
+* Computer Researching Club, WHSH - President (文華高中電研社社長)
+* Taichung-Changhua-Hsinchu Area United Computer Information Clubs Winter Camp (中彰竹電資研社團聯合寒訓）
+    * 2009: Depart of Senior High - Activities Leader (高中部活動長)
+    * 2011: Depart of University - Activities Leader (大學部活動長)
+* New Fantasy Field BBS of WHSH - Founder & Administrator. (文華高中BBS校站新幻想領域創立者與管理員)
+* Chinese Medical Research Club - Vice President (中興大學中醫社副社長)
+* Presentation of Chinese Medical Research Club - CEO (中興大學中醫社成發創立者與執行長)
+* Black Swan Cup eSports League of NCHU - Consultant (中興大學黑天鵝盃電競聯賽顧問)
+* Administrative Center of Student Government of NCHU (中興大學學生會行政中心)
+    * 16th: Secretariat Member, Department of Media Member (16屆秘書處、新聞部成員)
+    * 17th: Department of Information Technology - Vice Minister (17屆副資訊長)
+    * 18th: Department of Information Technology - Minister (18屆資訊長)
+* Congress of Student Government of NCHU (中興大學學生會學生代表大會)
+    * 19th: Congressman (19屆議員)
+* NCHU Electrical Engineering and Computer Science enthusiasts Community - Host (興大電資同好社群主持人)
 
   [1]: http://class.lib.nchu.edu.tw/lib/order.php
   [2]: http://nchusg.org
