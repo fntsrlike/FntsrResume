@@ -33,19 +33,19 @@ Skill Experience
 ----------------
 ### Web developer, server administrator, since February, 2012
 - NCHU Library, IT Group, part-time web developer. (Feb. 2012 - Jun. 2014)
-    - [Research Room, Discuz Room Borrow System][1] *(研究小間、讀者討論室借用系統)* - Maintainer & Collaborators
-    - External members Enter Systen *(校外人士進館系統)* - Maintainer & Collaborators
-    - Book Search System *(尋書系統)* - Author
-    - Business Statics System *(業務統計系統)* - Author
+    - [Research Room, Discuz Room Borrow System][1] *(研究小間、讀者討論室借用系統)*
+    - External members Enter Systen *(校外人士進館系統)*
+    - Book Search System *(尋書系統)*
+    - Business Statics System *(業務統計系統)*
 - NCHU Student Government, Depart of IT, web developer. (Jul. 2012 - Jun. 2014)
     - [Official Webiste][2] *(學生會網站整體規劃)*
-    - [Member System][3] *(會員系統)* - Author
-    - [Poster Board Manager System][4] *(海報欄位申請系統)* - Author
-    - [Student Right Appeal System][5] *(學權申訴系統)* - Author
+    - [Member System][3] *(會員系統)*
+    - [Poster Board Manager System][4] *(海報欄位申請系統)*
+    - [Student Right Appeal System][5] *(學權申訴系統)*
     - [NCHU Electrical Engineering and Computer Science enthusiasts Community Pages ][6] *(興大電資同好社群介紹頁面)*
 - g0v.tw 台灣零時政府
-    - [Congress Vote Analytics Beta][7] *(國會選票分析系統 Beta)* - Collaborators
-    - [ongress Vote Analytics][8] *(國會選票分析系統)* - Collaborators
+    - [Congress Vote Analytics Beta][7] *(國會選票分析系統 Beta)*
+    - [ongress Vote Analytics][8] *(國會選票分析系統)*
 
 ### Computer Maintainer, July 2011 - February 2012
 - NCHU Library, IT Group, Maintain Room, part-time maintainer
