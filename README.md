@@ -3,13 +3,13 @@ FntsrResume
 
 Personal Information
 --------------------
-VirtualName: Ruo-Shi Ling (凌若虛)
-Usual ID: Fntsr, Fntsrlike (Fntsr is abbr. of Fantasier)
-Sex: Male
-Hometown: Taichung City, Taiwan (R.O.C.)
-E-mail: [fntsrlike+resume@gmail.com][1]
-Blog: [http://blog.fntsr.tw/][2]
-Github: [https://github.com/fntsrlike][3]
+- VirtualName: Ruo-Shi Ling (凌若虛)
+- Usual ID: Fntsr, Fntsrlike (Fntsr is abbr. of Fantasier)
+- Sex: Male
+- Hometown: Taichung City, Taiwan (R.O.C.)
+- E-mail: [fntsrlike+resume@gmail.com][1]
+- Blog: [http://blog.fntsr.tw/][2]
+- Github: [https://github.com/fntsrlike][3]
 
 Education
 --------------------
