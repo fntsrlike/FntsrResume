@@ -4,8 +4,8 @@
 
 應徵實習職位
 ----------
-1. 網頁前端工程師（Front to End Engineer）
-2. 網頁後端工程師（Back to End Engineer） / 數據工程師（Data Engineer）
+1. 網頁前端工程師（Front-End Engineer）
+2. 網頁後端工程師（Back-End Engineer） / 數據工程師（Data Engineer）
 
 個人資訊
 --------------------
