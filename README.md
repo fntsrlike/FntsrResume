@@ -4,8 +4,8 @@ Last Update: 2014.05.09
 
 Candidates Intern of
 ----------
-1. Front to End Engineer
-2. Back to End Engineer / Data Engineer
+1. Front-End Engineer
+2. Back-End Engineer / Data Engineer
 
 Personal Information
 --------------------
