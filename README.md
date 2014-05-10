@@ -9,12 +9,12 @@ Candidates Intern of
 
 Personal Information
 --------------------
-Nick: Ruo-Shi Ling (凌若虛)
-Usual ID: Fntsr, Fntsrlike (Fntsr is abbr. of Fantasier)
-Sex: Male
-E-mail: [fntsrlike+resume@gmail.com][1]
-Blog: [http://blog.fntsr.tw/][2]
-Github: [https://github.com/fntsrlike][3]
+- Nick: Ruo-Shi Ling (凌若虛)
+- Usual ID: Fntsr, Fntsrlike (Fntsr is abbr. of Fantasier)
+- Sex: Male
+- E-mail: [fntsrlike+resume@gmail.com][1]
+- Blog: [http://blog.fntsr.tw/][2]
+- Github: [https://github.com/fntsrlike][3]
 
 Education
 --------------------
