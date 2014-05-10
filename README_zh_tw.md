@@ -9,12 +9,12 @@
 
 個人資訊
 --------------------
-匿名： 凌若虛 (Ruo-Shi Ling)
-ＩＤ： Fntsr, Fntsrlike (Fntsr是Fantasier的縮寫)
-性別： 男性
-E-mail: [fntsrlike+resume@gmail.com][1]
-Blog: [http://blog.fntsr.tw/][2]
-Github: [https://github.com/fntsrlike][3]
+- 匿名： 凌若虛 (Ruo-Shi Ling)
+- ＩＤ： Fntsr, Fntsrlike (Fntsr是Fantasier的縮寫)
+- 性別： 男性
+- E-mail: [fntsrlike+resume@gmail.com][1]
+- Blog: [http://blog.fntsr.tw/][2]
+- Github: [https://github.com/fntsrlike][3]
 
 教育
 --------------------
