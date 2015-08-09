@@ -1,45 +1,58 @@
-Resume 
+Resume
 ===========
-Last Update: 2014.05.09
-
-Candidates Intern of
-----------
-1. Front-End Engineer
-2. Back-End Engineer / Data Engineer
+Last Update: 2015.03.24
 
 Personal Information
 --------------------
-- Nick: Ruo-Shi Ling (凌若虛)
+- Nick: Ruo-Shi (若虛)
 - Usual ID: Fntsr, Fntsrlike (Fntsr is abbr. of Fantasier)
 - Sex: Male
 - E-mail: [fntsrlike+resume@gmail.com][1]
+- Page: [http://blog.fntsr.tw/](http://blog.fntsr.tw/)
 - Blog: [http://blog.fntsr.tw/][2]
 - Github: [https://github.com/fntsrlike][3]
 
 Education
 --------------------
-- National TaiChung Wen-Hua Senior High School (2006 - 2010)
+- Object-Oriented Technology Lab in Dept. of Computer Science and Information Engineering, National Central University (2014 - now)
 - Depart of History, National Chung Hsing University (2010-2014)
-- Object-Oriented Technology Lab in Dept. of Computer Science and Information Engineering, National Central University (2014 - / will be)
+- National Taichung Wen-Hua Senior High School (2006 - 2010)
+
+Awards and Achievements
+-----------------------
+- Bronze medal, ITSA 2013 (全國大專校院開放軟體創作競賽，雲端網際服務與其他應用主題)
+
+Activity Experience
+-------------------
+- Paper author of PHPConf 2013 (Paper: 開發一個組織生態系的系統──以學校為例)
+- Team Fludot of Indie Speed Run 2013 #Taipei (Game: Burning Civilization)
+- Proj. Congress Vote Analytics of g0v.tw Hackath5n (台灣零時政府第伍次美麗島黑客松)
+
+Club/Group Experience
+---------------------
+- Department of IT of A.C. of Student Government, NCHU - Minister
+- NCHU EE and CS enthusiasts Community - Host
+- New Fantasy Field BBS of WHSH - Founder & Administrator.
+- Computer Researching Club of WHSH - President
 
 Computer and Programing skills
 ---------------
 #### Advanced
-- BSD (OS X), Linux (Debian/Ubuntu, CentOS), Windows
+- Linux Server Manage (CentOS, Debian/Ubuntu)
 - Apache, Nginx
 - Git, Github
-- HTML, XML, Markdown
+- HTML, Markdown
 - CSS, Bootstrap
-- JavaScript, CoffeeScript, JQuery
+- JavaScript, LiveScript, jQuery
 - PHP, CodeIgniter, Laravel
 - SQL, MySQL
 
 #### Beginner
-- Java, Android App development
-- C/C++ (Basic), Maple-itoc BBS
-- node.js
+- C/C++, Maple-itoc BBS
+- CoffeeScript, Backbone.js, node.js
 - Ruby, Ruby on Rails
-- MongoDB
+- SQLite, MongoDB
+- Android App
 
 Skill Experience
 ----------------
@@ -79,7 +92,7 @@ _Following projects use PHP with framework CodeIgniter for B2E, HTML, CSS, JavaS
 
 ### Network Administrator, April, 2010 - October, 2011
 - Computer Researching Club, WHSH
-- Founder & Administrator, "New Fantasy Field", BBS of WHSH 
+- Founder & Administrator, "New Fantasy Field", BBS of WHSH
 
 
 Activity Experience
